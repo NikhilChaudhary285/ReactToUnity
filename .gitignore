@@ -1,0 +1,137 @@
+# ==============================
+# UNITY
+# ==============================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+Recordings/
+
+# Unity-generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports
+sysinfo.txt
+crashlytics-build.properties
+
+# JetBrains Rider plugin
+/Assets/Plugins/Editor/JetBrains*
+
+# Gradle cache
+.gradle/
+
+# Exported Obj files
+ExportedObj/
+.consulo/
+
+# Addressables cache
+Assets/AddressableAssetsData/*/*.bin*
+
+# Temporary auto-generated Android Assets
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/*
+
+# Builds
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# Optional IDE settings
+.vscode/
+.idea/
+
+# Local user-specific files
+*.log
+*.bak
+*.orig
+*.swp
+
+
+# ==============================
+# REACT NATIVE
+# ==============================
+
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# React Native packager
+.metro-cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+*.keystore
+*.jks
+
+# iOS
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# Buck
+buck-out/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Temporary files
+*.hprof
+
+# Watchman
+.watchmanconfig
+
+# Package manager locks (keep ONE if your team standardizes)
+# yarn.lock
+# package-lock.json
+# pnpm-lock.yaml
