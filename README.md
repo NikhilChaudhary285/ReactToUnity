@@ -675,4 +675,4 @@ This project is provided for educational and development reference purposes.
 
 ---
 
-# ⭐ Feel free to explore my repositories and connect with me. I’m always open to discussions around Unity development, React Native integration, mobile architecture, IL2CPP pipelines, and scalable game systems.
+⭐ Feel free to explore my repositories and connect with me. I’m always open to discussions around Unity development, React Native integration, mobile architecture, IL2CPP pipelines, and scalable game systems.
